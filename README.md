@@ -2,7 +2,7 @@
 
 
 
-LibP        I.batatas-PI153655-cvTinian
+LibP/tI.batatas-PI153655-cvTinian
 GC13-49-2   I.batatas-PI518474-Mexico-Veracruz
 GC7-39-     I.batatas-PI531122-cvJewel
 GC11-50-    I.batatas-PI561261-Ecuador-Loja
